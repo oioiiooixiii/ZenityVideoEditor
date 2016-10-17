@@ -1,5 +1,7 @@
 Simple, extensible, FFmpeg video editor, using Zenity as front-end. 
 - Functional video trimming, but may contain bugs and malformed features.
+- Extensible modularity was an afterthought, and as such, some inappropriate structures exist.
+- A necessary temp file is created in '/dev/shm' and this location should be changed if '/dev/shm' does not exist.
 
 Run 'zenityVideoEditor.sh' 
 
