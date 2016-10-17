@@ -1,0 +1,7 @@
+Simple, extensible, FFmpeg video editor, using Zenity as front-end. 
+- Functional video trimming, but may contain bugs and malformed features.
+
+Run 'zenityVideoEditor.sh' 
+
+ver. 0.1 - 17th October 2016
+source: http://oioiiooixiii.blogspot.com
